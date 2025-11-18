@@ -22,8 +22,10 @@ https://colab.research.google.com/github/Sakinat-Folorunso/OOU_CSC309_Artificial
 Notebook: `notebooks/CSC309_Week2_PH_Student_Centred.ipynb` 
 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/Sakinat-Folorunso/OOU_CSC309_Artificial_Intelligence/blob/main/notebooks/CSC309_W02_Turing_Test_Practical_Student_Centred.ipynb)
+
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([
+https://colab.research.google.com/github/Sakinat-Folorunso/OOU_CSC309_Artificial_Intelligence/blob/main/notebooks/CSC309_W02_Turing_Test_Practical_Student_Centred.ipynb](https://colab.research.google.com/github/Sakinat-Folorunso/OOU_CSC309_Artificial_Intelligence/blob/main/notebooks/CSC309_Week02_Intelligent_Agents_Student_Centred.ipynb))
 
 
 ## Week 3 - Search_BFS_DFS
